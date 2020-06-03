@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    background-color:lightgrey;
+    width: 100vw;
+    height: 100vh;
+  } 
+section {
+    background-color: white;
+    width: 80vw;
+    height: 65vh;
+    margin: 0 auto;
+  }
+header {
+    background-color: grey;
+    width: 100vw;
+    height: 20vh;
+ }  
+footer { 
+    background-color: black;
+    width: 80vw;
+    height: 15vh;
+    margin: 0 auto;
+  }
